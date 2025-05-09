@@ -1,6 +1,6 @@
 # ⚡ Electric Car Instrument Cluster Simulation
 
-A visually engaging, browser-based electric vehicle instrument cluster built using **Vanilla JavaScript** and **HTML5 Canvas**. This project simulates a modern, non-traditional EV dashboard for display, experimentation, and portfolio demonstration purposes.
+A visually engaging, browser-based electric vehicle instrument cluster built using **Vue** and **Tailwind CSS**. This project simulates a modern, non-traditional EV dashboard for display, experimentation, and portfolio demonstration purposes.
 
 ---
 
@@ -29,9 +29,9 @@ All visuals are updated in real time using slider-based simulation controls.
 
 ## 🧰 Technologies Used
 
-- **Vanilla JavaScript**
-- **HTML5 Canvas API**
-- **CSS Flexbox** for responsive layout
+- **Vue**
+- **Tailwind CSS**
+- **Pinia** for responsive layout
 - **Custom animation loop with `requestAnimationFrame()`**
 
 ---
