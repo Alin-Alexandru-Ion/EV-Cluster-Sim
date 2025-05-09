@@ -31,7 +31,7 @@ All visuals are updated in real time using slider-based simulation controls.
 
 - **Vue**
 - **Tailwind CSS**
-- **Pinia** for responsive layout
+- **Pinia** for state management
 - **Custom animation loop with `requestAnimationFrame()`**
 
 ---
